@@ -19,4 +19,4 @@ https://drive.google.com/file/d/19Zx5uWNM8zTC5Z8mFiJ1iSLBPCDwUvS5/view?usp=drive
 ## Improvisation
   - I Developed a scoring system to classify water quality into categories like Good, Moderate, and Poor based on prediction outputs.
   - Why it is useful?
-      - Machine Learning gives us Numerical Pollutant Values, Users don't understand those easily. With the help of scoring Users can easily understand the Quality of Water(Good, Moderate, Poor.
+      - Machine Learning gives us Numerical Pollutant Values, Users don't understand those easily. With the help of scoring Users can easily understand the Quality of Water(Good, Moderate or Poor).
