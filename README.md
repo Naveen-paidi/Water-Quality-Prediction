@@ -4,7 +4,7 @@ This project uses machine learning algorithms to predict the quality of water ba
 https://drive.google.com/file/d/19Zx5uWNM8zTC5Z8mFiJ1iSLBPCDwUvS5/view?usp=drive_link
 
 ## Technologies Uses
-  Python
-  Numpy, pandas - Data Handling
-  Scikit-learn - Machine Learning Model
-  Matplotlib - Data Visualization
+  - Python
+  - Numpy, pandas - Data Handling
+  - Scikit-learn - Machine Learning Model
+  - Matplotlib - Data Visualization
