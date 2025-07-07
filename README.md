@@ -3,7 +3,7 @@ This project uses machine learning algorithms to predict the quality of water ba
 ## Polluion model pkl file
 https://drive.google.com/file/d/19Zx5uWNM8zTC5Z8mFiJ1iSLBPCDwUvS5/view?usp=drive_link
 
-## Technologies Uses
+## Technologies Used
 
   - Python
   - Numpy, pandas - Data Handling
